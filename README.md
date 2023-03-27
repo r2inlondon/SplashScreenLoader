@@ -1,2 +1,2 @@
 # SplashScreenLoader
-Created with CodeSandbox
+Template component for splash screen loader
